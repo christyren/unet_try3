@@ -1,0 +1,45 @@
+训练之前：
+The dice coeff is 0.0099089
+The dice coeff is 1.2714e-10
+The dice coeff is 0.12612
+The dice coeff is 1.2711e-10
+The dice coeff is 1.2713e-10
+The dice coeff is 0.0020489
+The dice coeff is 7.3744e-05
+The dice coeff is 0.0031102
+The dice coeff is 0.078594
+The dice coeff is 0.020967
+The dice coeff is 0.060931
+The dice coeff is 1.2713e-10
+The dice coeff is 2.7967e-05
+The dice coeff is 1.2713e-10
+The dice coeff is 0.040728
+The dice coeff is 1.2714e-10
+The dice coeff is 0.002776
+The dice coeff is 1.271e-10
+The dice coeff is 1.2715e-10
+The dice coeff is 0.011553
+The average coeff is 0.017842
+
+经过20轮训练之后:
+The dice coeff is 0.94305
+The dice coeff is 0.78017
+The dice coeff is 0.25333
+The dice coeff is 0.86573
+The dice coeff is 0.48348
+The dice coeff is 0.58599
+The dice coeff is 0.96355
+The dice coeff is 0.98252
+The dice coeff is 0.56476
+The dice coeff is 0.91059
+The dice coeff is 0.6464
+The dice coeff is 0.71151
+The dice coeff is 0.68935
+The dice coeff is 0.80779
+The dice coeff is 0.4827
+The dice coeff is 0.8878
+The dice coeff is 0.91058
+The dice coeff is 0.80847
+The dice coeff is 0.21158
+The dice coeff is 0.74933
+The average coeff is 0.71193
